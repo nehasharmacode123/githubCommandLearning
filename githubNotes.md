@@ -21,3 +21,5 @@ git show 232e5c8
 7) yeh check karna kiss author ne kiss time pr kon sa code change kiya and kya changes kiya 
 git blame index.js
 
+8) check status of file and folder & code
+git status
