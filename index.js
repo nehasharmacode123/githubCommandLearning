@@ -18,6 +18,7 @@ function newFn(){
 }
 
 function addTwoNumbers(a,b){
+    console.log("Neha Sharma");
     return a + b;
     
 }
