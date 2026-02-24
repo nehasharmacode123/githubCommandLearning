@@ -36,7 +36,9 @@ console.log(addTwoNumbers(3,4));
 
 
 function addThreeNumbers(a,b,c){
-    console.log("Neha Sharma");
+    console.log("this is a new feature a");
+    console.log("this is a new feature b");
+    
     return a + b + c;
     
 }
