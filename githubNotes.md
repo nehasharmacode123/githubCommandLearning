@@ -93,3 +93,6 @@ git checkout neha-feat
 
 # check branch
 git branch
+
+# how can create remote branch in local
+git push --set-upstream origin neha-feat

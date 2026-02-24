@@ -24,3 +24,12 @@ function addTwoNumbers(a,b){
 }
 
 console.log(addTwoNumbers(3,4));
+
+
+function addTwoNumbers(a,b,c){
+    console.log("Neha Sharma");
+    return a + b + c;
+    
+}
+
+console.log(addTwoNumbers(3,4));
