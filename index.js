@@ -16,3 +16,20 @@ function newFn(){
     console.log('Hey I am a new fn');
     
 }
+
+function addTwoNumbers(a,b){
+    console.log("Neha Sharma");
+    return a + b;
+    
+}
+
+console.log(addTwoNumbers(3,4));
+
+
+function addTwoNumbers(a,b,c){
+    console.log("Neha Sharma");
+    return a + b + c;
+    
+}
+
+console.log(addTwoNumbers(3,4));
