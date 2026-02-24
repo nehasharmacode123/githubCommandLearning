@@ -1,3 +1,7 @@
+console.log("Hello Neha");
+
+console.log("Happy Coding");
+
 const name = "Neha Sharma";
 const dob = "12/03/1998";
 
