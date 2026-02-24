@@ -96,3 +96,17 @@ git branch
 
 # how can create remote branch in local
 git push --set-upstream origin neha-feat
+
+
+# How can i give branch name
+git branch "feat/add-chat-support"
+git branch "feat/youtube-integeration"
+
+# If you solve bugs
+git branch "bug/login-not-working"
+
+- git branch "feat/feat-a"
+- git checkout "feat/feat-a"
+
+git checkout -b "feat/feat-b"
+
