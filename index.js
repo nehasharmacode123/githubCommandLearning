@@ -38,6 +38,8 @@ console.log(addTwoNumbers(3,4));
 function addThreeNumbers(a,b,c){
     console.log("this is a new feature a");
     console.log("this is a new feature b");
+    console.log("this is a new feature c");
+    console.log("this is a new feature d");
     
     return a + b + c;
     
